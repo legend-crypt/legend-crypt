@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @legend-crypt
 - 👀 I’m interested in ...becoming a digital nomad
-- 🌱 I’m currently learning ... HTML,CSS Javascript
+- 🌱 I’m currently learning ... Software Engineering at ALX 
 - 💞️ I’m looking to collaborate on web  project
 - 📫 How to reach me ....twitter@konadulord
 
